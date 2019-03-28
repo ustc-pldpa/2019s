@@ -11,7 +11,7 @@ Some packages are borrowed from [CS242: Programming Languages](http://cs242.stan
 - [Coq Setup](Coq-setup.md)
 ## Programming Assignments (PAs)
 - [PA1](https://github.com/ustc-fopl/2018s/blob/master/assign1/README.md): RPC Library - Serialization (Lua, scope)
-- PA2: Finish all the exercises in Lists.v in the online textbook [Software Foundations](https://softwarefoundations.cis.upenn.edu), [vol 1](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) and [code](https://softwarefoundations.cis.upenn.edu/lf-current/lf.tgz) 
+- PA2: Finish all the exercises in Lists.v in the online textbook [Software Foundations](https://softwarefoundations.cis.upenn.edu), [vol 1](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) and [code](https://softwarefoundations.cis.upenn.edu/lf-current/lf.tgz), see [related coq source](coq) 
 - [PA3](assign3/README.md): Type system (OCaml)
 ## Final Project
 
